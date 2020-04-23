@@ -1,3 +1,3 @@
-# Pop Shell Colors - WIP
+# Pop!_OS Shell Colors - WIP
 
-Fork of system76 pop_os shell with more customization options (border colors and size)
+Fork of system76 Pop!_OS shell with more customization options (border colors and size)
